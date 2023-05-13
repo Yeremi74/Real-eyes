@@ -297,7 +297,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(img/Real\ eyes\ pic.jpg);
+    background-image: url(img/Real\ eyes\ pic.webp);
     min-width: 540px;
     height: 50vh;
     background-size: cover;
@@ -306,7 +306,7 @@ body{
 }
 
 #sm-banner .banner-box2{
-    background-image: url(img/asfa.jpg);
+    background-image: url(img/asfa.webp);
 }
 
 
